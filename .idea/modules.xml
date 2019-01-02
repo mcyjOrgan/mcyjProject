@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-common/root-common.iml" filepath="$PROJECT_DIR$/root-common/root-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-constant/root-constant.iml" filepath="$PROJECT_DIR$/root-constant/root-constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-dto/root-dto.iml" filepath="$PROJECT_DIR$/root-dto/root-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-quick4j/root-quick4j.iml" filepath="$PROJECT_DIR$/root-quick4j/root-quick4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr/root-svr.iml" filepath="$PROJECT_DIR$/root-svr/root-svr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr/root-svr-role/root-svr-role.iml" filepath="$PROJECT_DIR$/root-svr/root-svr-role/root-svr-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr/root-svr-role-api/root-svr-role-api.iml" filepath="$PROJECT_DIR$/root-svr/root-svr-role-api/root-svr-role-api.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="root-common" />
+        <module name="root-constant" />
+        <module name="root-dto" />
+        <module name="root-quick4j" />
+        <module name="root-svr-dept" />
+        <module name="root-svr-dept-api" />
+        <module name="root-svr-role" />
+        <module name="root-svr-role-api" />
+        <module name="root-svr-section" />
+        <module name="root-svr-section-api" />
+        <module name="root-svr-user" />
+        <module name="root-svr-user-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="root" target="1.8" />
+      <module name="root-common" target="1.8" />
+      <module name="root-constant" target="1.8" />
+      <module name="root-dto" target="1.8" />
+      <module name="root-quick4j" target="1.8" />
+      <module name="root-svr" target="1.8" />
+      <module name="root-svr-bgManagement" target="1.8" />
+      <module name="root-svr-bgManagement-api" target="1.8" />
+      <module name="root-svr-bigDataApp" target="1.8" />
+      <module name="root-svr-bigDataApp-api" target="1.8" />
+      <module name="root-svr-dataAPP" target="1.8" />
+      <module name="root-svr-dataAPP-api" target="1.8" />
+      <module name="root-svr-dev" target="1.8" />
+      <module name="root-svr-dev-api" target="1.8" />
+      <module name="root-svr-external" target="1.8" />
+      <module name="root-svr-external-api" target="1.8" />
+      <module name="root-svr-guanlin" target="1.8" />
+      <module name="root-svr-guanlin-api" target="1.8" />
+      <module name="root-svr-interface" target="1.8" />
+      <module name="root-svr-interface-api" target="1.8" />
+      <module name="root-svr-poris" target="1.8" />
+      <module name="root-svr-poris-api" target="1.8" />
+      <module name="root-svr-role" target="1.8" />
+      <module name="root-svr-role-api" target="1.8" />
+      <module name="root-svr-spot" target="1.8" />
+      <module name="root-svr-spot-api" target="1.8" />
+      <module name="root-svr-weiXin" target="1.8" />
+      <module name="root-svr-weiXin-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

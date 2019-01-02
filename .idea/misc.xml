@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/root-aqsc" />
+    <file type="web" url="file://$PROJECT_DIR$/root-quick4j" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-dept/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-dept-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/root-svr/root-svr-dev-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-dev/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-external-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-external/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-guanlin-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-guanlin/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-poris-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-poris/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-spot-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-spot/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-weiXin-api/pom.xml" />
+        <option value="$PROJECT_DIR$/root-svr/root-svr-weiXin/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.4.110/svn/FstiDev/%E5%BC%80%E5%8F%91%E5%BA%93/SPOSS/05_%E4%BB%A3%E7%A0%81/SpossWeb/web/sposs-api/root" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:task="http://www.springframework.org/schema/task"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+                         http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-4.0.xsd">
+
+    <!--<bean id="myTask" class="com.test.object.quartz.job.ThirdCron" />-->
+    <bean id="sccsHeartTask" class="com.eliteams.quick4j.web.listener.SccsHeartBeatJob" />
+    <task:scheduled-tasks scheduler="myScheduler">
+        <!-- 每5秒钟执行一次 passStudyTask：任务类中执行的方法      -->
+        <!--<task:scheduled ref="myTask" method="executeJob" cron="0/5 * * * * ?"/>-->
+        <!--1小时一次-->
+        <task:scheduled ref="sccsHeartTask" method="checkHeart" cron="0 0 0/1 * * ? "/>
+    </task:scheduled-tasks>
+    <task:scheduler id="myScheduler" pool-size="10"/>
+
+</beans>

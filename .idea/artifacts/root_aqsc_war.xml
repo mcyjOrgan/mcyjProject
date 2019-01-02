@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="root-aqsc:war">
+    <output-path>$PROJECT_DIR$/root-aqsc/target</output-path>
+    <root id="archive" name="root-aqsc.war">
+      <element id="artifact" artifact-name="root-aqsc:war exploded" />
+    </root>
+  </artifact>
+</component>

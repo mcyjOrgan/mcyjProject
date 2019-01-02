@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/root-svr.iml" filepath="$PROJECT_DIR$/root-svr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr-dept/root-svr-dept.iml" filepath="$PROJECT_DIR$/root-svr-dept/root-svr-dept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr-dept-api/root-svr-dept-api.iml" filepath="$PROJECT_DIR$/root-svr-dept-api/root-svr-dept-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr-section/root-svr-section.iml" filepath="$PROJECT_DIR$/root-svr-section/root-svr-section.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-svr-section-api/root-svr-section-api.iml" filepath="$PROJECT_DIR$/root-svr-section-api/root-svr-section-api.iml" />
+    </modules>
+  </component>
+</project>
